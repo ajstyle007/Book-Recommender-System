@@ -1,5 +1,7 @@
 # 📚 Book Recommender System
+
 - Live Web App:- https://musk12-book-recommender-system.hf.space/
+  
 In this project, I developed a Book Recommender System using a combination of popularity-based and collaborative filtering techniques. The system helps users discover books based on their reading history and interactions with books, and it also highlights the top-rated books. The model is deployed using a web application built with Streamlit and hosted on Hugging Face.
 
 ![overview](https://github.com/user-attachments/assets/4b021a10-357c-4262-87b4-7e00462c5d9d)
@@ -60,5 +62,5 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 ## 📧 Contact
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajay-kumar-72ba861b8/)
-- Medium: Medium Blog
+- Medium: [Medium Blog](https://medium.com/@kumarajaypaonta/from-data-to-recommendations-creating-a-machine-learning-book-recommender-system-18fe5950368b)
 
